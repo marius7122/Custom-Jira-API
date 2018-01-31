@@ -1,0 +1,88 @@
+﻿ Issue Type , Key , Summary , Assignee , Owner , Priority , Status , Created , Updated , Σ Remaining Estimate , Time Spent , Σ Original Estimate , Work Ratio , Fix Version/s , Developer , Epic Name , Epic Link 
+ Task,OSDOWSESS-472, Update the call done for insights since Backend URL has been changed. , Roxana Dina , Ioana Giorgi , Medium, Ready for review ,04/Jan/2018 06:49,05/Jan/2018 09:25,0,3600,, ,  , Ioana Giorgi ,, [ESS] Insight 
+ Sub-task,OSDOWSESS-471, OSDOWSESS-373                [SelfScheduling] Consider other contracts , Ioana Giorgi , Georgiana Stanciu , Medium, Ready for review ,04/Jan/2018 01:49,05/Jan/2018 10:01,0,10800,, , ESS - version 4 , Georgiana Stanciu ,,
+ Bug,OSDOWSESS-470, [General] Unit tests - Fix mocked data for Date format , Ioana Giorgi ,, Medium, Open ,03/Jan/2018 06:13,03/Jan/2018 06:14,,,, ,  ,,,
+ Sub-task,OSDOWSESS-469, OSDOWSESS-371                Create a new pop-up for searching for an address , Andrei Zoltan Bonyhai , Andrei Zoltan Bonyhai , Medium, Build ,03/Jan/2018 05:12,04/Jan/2018 09:20,,,, , ESS - version 4 , Andrei Zoltan Bonyhai ,,
+ Sub-task,OSDOWSESS-468, OSDOWSESS-371                Replace address drop-down by a new component , George-Ciprian Grindeanu , George-Ciprian Grindeanu , Medium, Build ,03/Jan/2018 05:11,04/Jan/2018 06:13,,,, , ESS - version 4 , George-Ciprian Grindeanu ,,
+ Task,OSDOWSESS-467, [Template Groups] Choose button should select the template , Vlad Cimpian , Vlad Cimpian , Medium, Ready for review ,03/Jan/2018 05:08,05/Jan/2018 08:45,27000,1800,28800,6%,  , Vlad Cimpian ,, [ESS] Self Scheduling 
+ Sub-task,OSDOWSESS-466, OSDOWSESS-371                Create design for Backend route , Unassigned, Roxana Dina , Medium, Verify ,03/Jan/2018 04:53,05/Jan/2018 08:20,0,5400,, , ESS - version 4 , Roxana Dina ,,
+ Task,OSDOWSESS-465, Deploy ESS to Cloud , Ioana Giorgi , Ioana Giorgi , Medium, Build ,03/Jan/2018 04:15,04/Jan/2018 11:26,0,19800,, ,  , Ioana Giorgi ,, [ESS] Cloud 
+ Task,OSDOWSESS-464, [Alternatives] Display shift details , Unassigned,, Medium, Open ,03/Jan/2018 10:23,03/Jan/2018 10:24,,,, ,  ,,,
+ Bug,OSDOWSESS-463, [ShiftPicking] The KPI display wrong values , Unassigned,, Medium, Open ,22/Dec/2017 04:36,22/Dec/2017 04:36,,,, ,  ,,,
+ Sub-task,OSDOWSESS-462, OSDOWSESS-355                Refresh number of remaining wildcards from header , Unassigned, Vlad Cimpian , Medium, Item Test ,22/Dec/2017 10:39,22/Dec/2017 06:07,3600,10800,14400,75%, ESS - version 4 , Vlad Cimpian ,,
+ Bug,OSDOWSESS-461, Entering times: unexpected behavior , Ioana Giorgi , Ioana Giorgi , Medium, Open ,21/Dec/2017 11:55,21/Dec/2017 11:57,,,, ,  ,,,
+ Task,OSDOWSESS-460, [SelfScheduling] if Shift Template or Shift Template Group is unavailable display Unavailable text , Vlad Cimpian , Codrina-Maria Pintea , Medium, Item Test ,21/Dec/2017 11:36,05/Jan/2018 11:07,7200,36000,43200,83%, ESS - version 4 , Codrina-Maria Pintea ,, [ESS] Self Scheduling 
+ Bug,OSDOWSESS-459, Self scheduling wrong popup shift status , Unassigned, Catalin Marian Georgescu , Medium, Item Test ,21/Dec/2017 11:00,04/Jan/2018 06:47,3600,39600,43200,91%, ESS - version 4 , Ioana Giorgi ,, [ESS] Self Scheduling 
+ Task,OSDOWSESS-458, New branding sign in screen and ORTEC symbols and text in application , Ioana Giorgi , Ioana Giorgi , Medium, Open ,20/Dec/2017 01:39,20/Dec/2017 01:39,,,, ,  ,,,
+ Improvement,OSDOWSESS-457, Actuals details screen bigger and wider , Ioana Giorgi , Ioana Giorgi , Medium, Open ,20/Dec/2017 01:37,20/Dec/2017 01:38,,,, ,  ,,,
+ Task,OSDOWSESS-456," [Home] instead of ""remark?shiftId="" execute ""remark?shiftIds="" ", Ioana Giorgi ,, Medium, Open ,20/Dec/2017 01:00,20/Dec/2017 01:00,28800,,28800,0%,  ,,, [ESS] Performance 
+ Epic,OSDOWSESS-455, Performance related improvements , Ioana Giorgi ,, Medium, Open ,20/Dec/2017 01:00,20/Dec/2017 01:00,,,, ,  ,, [ESS] Performance ,
+ Task,OSDOWSESS-454, [Jenikins] Cloud auto deployment of the Frontend API , Unassigned,, Medium, Open ,20/Dec/2017 11:33,22/Dec/2017 01:51,86400,,86400,0%,  ,,, [ESS] Cloud 
+ Task,OSDOWSESS-453, Remark is not shown from right mouse click/change shift remark , Ioana Giorgi , Ioana Giorgi , Medium, Open ,19/Dec/2017 11:53,03/Jan/2018 10:06,,,, ,  ,,,
+ Task,OSDOWSESS-452, Remark symbol not shown in schedule , Ioana Giorgi , Ioana Giorgi , Medium, Open ,19/Dec/2017 11:51,19/Dec/2017 11:51,,,, ,  ,,,
+ Task,OSDOWSESS-451, Clock symbol for changed shifts , Ioana Giorgi , Ioana Giorgi , Medium, Open ,19/Dec/2017 11:46,19/Dec/2017 11:46,,,, ,  ,,,
+ Bug,OSDOWSESS-450, Availability permissions , Ioana Giorgi , Ioana Giorgi , Medium, Open ,19/Dec/2017 11:28,19/Dec/2017 11:29,,,, ,  ,,,
+ Task,OSDOWSESS-449, [SelfScheduling] Focus should be an alternatives from today , Unassigned,, Medium, Open ,18/Dec/2017 01:17,18/Dec/2017 01:17,43200,,43200,0%,  ,,, [ESS] Self Scheduling 
+ Bug,OSDOWSESS-448, [Self Schedule] Update color of the date , Unassigned,, Medium, Open ,18/Dec/2017 01:15,19/Dec/2017 04:33,28800,,28800,0%,  ,,, [ESS] Self Scheduling 
+ Bug,OSDOWSESS-446, [SCHEDULE] Click on swap icon will open the Day details popup , Unassigned,, Low, Open ,14/Dec/2017 05:14,14/Dec/2017 05:14,,,, ,  ,,,
+ Bug,OSDOWSESS-444, [SCHEDULE] The shift details popup is shaking when is opened on the laptop , Unassigned,, Medium, Open ,14/Dec/2017 12:15,14/Dec/2017 12:15,,,, ,  ,,,
+ Bug,OSDOWSESS-442, [SCHEDULE] The sick leaves without end date are not visible in the current published schedule , Unassigned,, Medium, Open ,14/Dec/2017 10:06,04/Jan/2018 05:06,,,, ,  ,,,
+ Bug,OSDOWSESS-441, [SCHEDULE] Show schedule button should display current month , Unassigned,, Medium, Open ,13/Dec/2017 06:55,04/Jan/2018 05:06,,,, ,  ,,,
+ Task,OSDOWSESS-440, Multi-user test - part 2 , Unassigned,, Medium, Open ,13/Dec/2017 04:27,15/Dec/2017 01:27,43200,,43200,0%,  ,,, [ESS] General/Technical/Solution 
+ Bug,OSDOWSESS-439, [Swap] Errors when different employees modify the same swap request , Unassigned,, Medium, Open ,13/Dec/2017 01:00,19/Dec/2017 05:48,,,, ,  ,,,
+ Bug,OSDOWSESS-438, [General] The conflict errors are not displayed in pop-up , Unassigned,, Medium, Open ,13/Dec/2017 11:03,19/Dec/2017 04:37,,,, ,  ,,,
+ Task,OSDOWSESS-437, [Actuals] [Preferences] [Leaves] Update status names - FINAL version , Roxana Dina , Vlad Cimpian , Medium, Item Test ,11/Dec/2017 06:13,05/Jan/2018 08:44,21600,7200,28800,25%, ESS - version 4 , Vlad Cimpian ,, [ESS] Actuals 
+ Bug,OSDOWSESS-436, [General] Remove FrontendAuth and BackendAuth db and all references of them , Ioana Giorgi ,, Medium, Open ,11/Dec/2017 01:17,11/Dec/2017 01:18,,,, ,  ,,,
+ Bug,OSDOWSESS-435, Replace indexOf , Alex Nap , George-Ciprian Grindeanu , Medium, Item Test ,11/Dec/2017 10:41,04/Jan/2018 05:13,18000,10800,28800,37%, ESS - version 4 , George-Ciprian Grindeanu ,, [ESS] General/Technical/Solution 
+ Bug,OSDOWSESS-432, [SelfScheduling] Add extra right space for group templates , Unassigned,, Medium, Open ,06/Dec/2017 11:11,06/Dec/2017 11:13,,,, ,  ,,, [ESS] Self Scheduling 
+ New Feature,OSDOWSESS-430, [Self Scheduling] Display realized / demand information for group template shifts , Unassigned, Codrina-Maria Pintea , Medium, Analyse ,29/Nov/2017 04:57,03/Jan/2018 10:07,30600,12600,43200,29%, ESS - version 4 , Codrina-Maria Pintea ,, [ESS] Self Scheduling 
+ Task,OSDOWSESS-426, Define management procedures , Unassigned,, Medium, Open ,27/Nov/2017 01:25,27/Nov/2017 01:25,86400,,86400,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-425, Log authentication related calls , Ioana Giorgi ,, Medium, Open ,27/Nov/2017 01:23,27/Nov/2017 01:25,115200,,115200,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-424, Third party components , Unassigned,, Medium, Open ,27/Nov/2017 01:23,27/Nov/2017 01:25,115200,,115200,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-423, [General] Add time picker , Unassigned,, Medium, Open ,27/Nov/2017 11:45,27/Nov/2017 01:21,115200,,115200,0%, ESS - version 5 ,,, [ESS] General/Technical/Solution 
+ Task,OSDOWSESS-422, Treat global errors based on status code , Ioana Giorgi ,, Medium, Open ,23/Nov/2017 12:36,27/Nov/2017 12:24,115200,,115200,0%, ESS - version 5 ,,, [ESS] General/Technical/Solution 
+ Task,OSDOWSESS-421, [Schedule] Caching list of schedules , Unassigned,, Medium, Open ,20/Nov/2017 05:21,27/Nov/2017 11:43,86400,,86400,0%, ESS - version 5 ,,, [ESS] Schedule 
+ Task,OSDOWSESS-411, [Actuals] [Shift Details] Check permissions for activity type properties if AutorisationRequired is true , Unassigned,, Medium, Open ,17/Nov/2017 11:55,15/Dec/2017 01:58,,,, ,  ,,, [ESS] Actuals 
+ Bug,OSDOWSESS-406, [Actuals] Make sure that scroll is affecting time inputs only after focus , Unassigned,, Medium, Open ,15/Nov/2017 04:11,03/Jan/2018 10:06,28800,,28800,0%, ESS - version 4 ,,, [ESS] Actuals 
+ Task,OSDOWSESS-399," [Frontend DB] [MSS] Do not use user name, but user id in Frontend database ", Unassigned,, Medium, Open ,07/Nov/2017 05:33,24/Nov/2017 02:07,86400,,86400,0%, ESS - version 4 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-398, [Home] Visual design review , Unassigned,, Medium, Open ,07/Nov/2017 05:14,03/Jan/2018 10:06,43200,,43200,0%, ESS - version 4 ,,, [ESS] Home 
+ Epic,OSDOWSESS-397, Browsers specific issues , Ioana Giorgi ,, Medium, Open ,06/Nov/2017 02:36,27/Nov/2017 01:16,,,, ,  ,, [ESS] Browsers ,
+ Bug,OSDOWSESS-384, [Browsers] Firefox browser issues , Unassigned,, Low, Open ,03/Nov/2017 06:02,14/Dec/2017 01:31,,,, ,  ,,, [ESS] Browsers 
+ Bug,OSDOWSESS-383, [Browsers] IE11 \ Edge browser issues , Unassigned,, Low, Open ,03/Nov/2017 06:00,22/Dec/2017 03:18,,,, ,  ,,, [ESS] Browsers 
+ New Feature,OSDOWSESS-382, Add configuration page to ESS , Unassigned,, Medium, Open ,02/Nov/2017 06:38,27/Nov/2017 12:24,115200,,115200,0%, ESS - version 5 ,,, [ESS] Insight 
+ Task,OSDOWSESS-381, Add protractor tests , Unassigned,, Medium, Open ,02/Nov/2017 03:02,27/Nov/2017 11:31,1008000,,1008000,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-380, Add ccds commands to Test API , Unassigned,, Medium, Open ,02/Nov/2017 03:02,02/Nov/2017 05:45,288000,,288000,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-379, [Protractor] ADD Testing API , Unassigned,, Medium, Open ,02/Nov/2017 03:01,02/Nov/2017 05:45,86400,,86400,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Task,OSDOWSESS-378, Make ESS application multi-tenant , Ioana Giorgi ,, Medium, Open ,02/Nov/2017 03:00,27/Nov/2017 01:25,288000,,288000,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Bug,OSDOWSESS-376, Ask and add Dutch translations for the whole app , Unassigned, Mark Jobse , Medium, Ready for review ,02/Nov/2017 02:45,04/Jan/2018 11:03,43200,,43200,0%, ESS - version 4 ,,, [ESS] General/Technical/Solution 
+ Task,OSDOWSESS-375, Get and use setting for number of days to see upcoming shifts , Unassigned,, Medium, Open ,02/Nov/2017 01:28,02/Nov/2017 05:46,28800,,28800,0%, ESS - version 5 ,,, [ESS] Home 
+ Task,OSDOWSESS-374, [Actuals] Add / edit address , Unassigned,, Medium, Open ,02/Nov/2017 11:21,08/Dec/2017 01:47,86400,,86400,0%, ESS - version 5 ,,, [ESS] Actuals 
+ New Feature,OSDOWSESS-373, Consider other contracts in the UX , Unassigned, Georgiana Stanciu , High, Item Test ,01/Nov/2017 12:55,05/Jan/2018 09:55,10800,32400,43200,75%, ESS - version 4 , Georgiana Stanciu ,, [ESS] Schedule 
+ New Feature,OSDOWSESS-371, Add a more detailed address selection and searching field. , Unassigned,, High, Open ,01/Nov/2017 12:48,03/Jan/2018 10:06,115200,,115200,0%, ESS - version 4 ,,, [ESS] Actuals 
+ Task,OSDOWSESS-364, Add notifications on all screens for all actions , Unassigned,, Medium, Open ,01/Nov/2017 11:59,15/Dec/2017 01:18,86400,,86400,0%, ESS - version 5 ,,, [ESS] General/Technical/Solution 
+ Epic,OSDOWSESS-363, Single Sign On , Ioana Giorgi ,, Medium, Open ,01/Nov/2017 10:08,06/Nov/2017 02:56,,,, ,  ,, [ESS] Single Sign On ,
+ Epic,OSDOWSESS-362, Deploying ESS to Cloud , Ioana Giorgi ,, Medium, Open ,01/Nov/2017 10:07,20/Dec/2017 11:33,,,, ,  ,, [ESS] Cloud ,
+ Task,OSDOWSESS-359," [SCHEDULE] In Add shift modal, some shifts are displayed twice in the dropdown list ", Unassigned,, Medium, Open ,27/Oct/2017 05:18,27/Nov/2017 01:19,43200,,43200,0%, ESS - version 5 ,,, [ESS] Schedule 
+ Task,OSDOWSESS-358, [Availability] Indicate the importance of the (un)availability , Unassigned,, Medium, Open ,27/Oct/2017 04:43,27/Nov/2017 11:27,115200,,115200,0%, New requests ,,, [ESS] Availability 
+ New Feature,OSDOWSESS-355, [SelfScheduling] Remove wildcard on shift level , Roxana Dina , Roxana Dina , Medium, Ready for review ,23/Oct/2017 05:47,05/Jan/2018 10:07,14400,75600,57600,175%, ESS - version 4 , Roxana Dina ,, [ESS] Self Scheduling 
+ Task,OSDOWSESS-348, [Home][Insights] Add border in the middle of the page , Unassigned,, Medium, Open ,20/Oct/2017 05:01,02/Nov/2017 05:46,28800,,28800,0%, ESS - version 5 ,,, [ESS] General/Technical/Solution 
+ Task,OSDOWSESS-347, [Authorization] Check that employeeId from request matches the logged in employee , Unassigned,, Medium, Open ,20/Oct/2017 10:37,18/Dec/2017 10:53,115200,,115200,0%, ESS - version 4 ,,, [ESS] Cloud 
+ Bug,OSDOWSESS-346, [INSIGHT] The reports scrollbar is missing on IE11 and Edge browsers , Unassigned,, Low, Open ,19/Oct/2017 06:47,14/Dec/2017 01:31,,,, , ESS - version 5 ,,, [ESS] Browsers 
+ Bug,OSDOWSESS-345, [ACTUALS] The shifts ids are duplicated at each call from Change popup , Unassigned,, Medium, Open ,19/Oct/2017 03:30,27/Nov/2017 01:19,43200,,43200,0%, ESS - version 5 ,,, [ESS] Actuals 
+ Bug,OSDOWSESS-339, [SCHEDULE] No shift details popover when clicking on planned shift , Unassigned,, Medium, Open ,11/Oct/2017 06:37,02/Nov/2017 05:46,43200,,43200,0%, ESS - version 5 ,,, [ESS] Schedule 
+ Bug,OSDOWSESS-338, [SCHEDULE] Error when there is no active schedule , Unassigned,, Medium, Open ,11/Oct/2017 06:09,02/Nov/2017 05:49,43200,,43200,0%, ESS - version 5 ,,, [ESS] Schedule 
+ Task,OSDOWSESS-337, Add a new calculation to SelfScheduling , Unassigned,, Medium, Open ,11/Oct/2017 10:41,27/Nov/2017 11:28,86400,,86400,0%, New requests ,,, [ESS] Self Scheduling 
+ Task,OSDOWSESS-331, Upgrade fullCalendar library , Unassigned,, Medium, Open ,10/Oct/2017 05:13,27/Nov/2017 11:40,115200,,115200,0%, ESS - version 5 ,,, [ESS] Cloud 
+ Sub-task,OSDOWSESS-328, OSDOWSESS-184                Test , Elena-Sorina Hermann ,, Medium, Item Test ,10/Oct/2017 04:54,18/Oct/2017 07:14,12600,16200,28800,56%, ESS - version 4 ,,,
+ Sub-task,OSDOWSESS-323, OSDOWSESS-312                Test , Elena-Sorina Hermann ,, Medium, Item Test ,10/Oct/2017 04:46,19/Oct/2017 07:31,7200,7200,14400,50%, ESS - version 4 ,,,
+ Task,OSDOWSESS-319, [Schedule] [Shift Details] Add restrictions for activity type properties , Unassigned, Codrina-Maria Pintea , Medium, Analyse ,10/Oct/2017 03:55,20/Dec/2017 11:42,18000,84600,86400,97%, ESS - version 4 , George-Ciprian Grindeanu ,, [ESS] Actuals 
+ Task,OSDOWSESS-317, Configure Resharper , Ioana Giorgi ,, Medium, Open ,10/Oct/2017 11:39,02/Nov/2017 02:41,,,, , ESS - version 5 ,,, [ESS] General/Technical/Solution 
+ Bug,OSDOWSESS-315, [Schedule] General improvement , Unassigned, Catalin Marian Georgescu , Low, Open ,06/Oct/2017 06:12,14/Dec/2017 01:30,0,9000,0,9223372036854780000%, ESS - version 5 ,,, [ESS] Schedule 
+ Bug,OSDOWSESS-312, [SCHEDULE]No published schedules. First plan day? , Elena-Sorina Hermann , George-Ciprian Grindeanu , Medium, Item Test ,02/Oct/2017 01:47,02/Nov/2017 05:42,21600,9000,28800,9223372036854780000%, ESS - version 5 , George-Ciprian Grindeanu ,, [ESS] Schedule 
+ Task,OSDOWSESS-288, [SelfScheduling] Update popup used for selecting a scheduling period , Georgiana Stanciu , Vlad Cimpian , High, Item Test ,26/Sep/2017 03:00,05/Jan/2018 10:52,28800,225000,100800,260%, ESS - version 4 , George-Ciprian Grindeanu ,, [ESS] Self Scheduling 
+ Bug,OSDOWSESS-279, [Schedule] Navigate between shifts of the day improvement , Unassigned,, Medium, Open ,22/Sep/2017 10:05,02/Nov/2017 05:46,86400,,86400,0%, ESS - version 5 ,,, [ESS] Schedule 
+ Bug,OSDOWSESS-277, [General] Update colors , Unassigned,, Medium, Open ,20/Sep/2017 02:37,02/Nov/2017 05:46,28800,,28800,0%, ESS - version 5 ,,, [ESS] Schedule 
+ Task,OSDOWSESS-271, [Availability] Updated design , Unassigned,, Medium, Open ,14/Sep/2017 04:36,10/Nov/2017 03:22,43200,,43200,0%, ESS - version 5 ,,, [ESS] Availability 
+ New Feature,OSDOWSESS-258, Upgrade to VS 2015 , Unassigned,, Medium, Open ,04/Sep/2017 09:55,02/Nov/2017 05:42,86400,,86400,0%, ESS - version 5 ,,, [ESS] General/Technical/Solution 
+,,,,,,,,,,,,,,,,,
+ Generated at Fri Jan 05 10:48:29 CET 2018 by Ioana Giorgi using JIRA 6.4.14#64029-sha1:ae256fe0fbb912241490ff1cecfb323ea0905ca5. ,,,,,,,,,,,,,,,,
